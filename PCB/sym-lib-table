@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Whimsy-rescue")(type "Legacy")(uri "${KIPRJMOD}/Whimsy-rescue.lib")(options "")(descr ""))
+)

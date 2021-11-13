@@ -1,10 +1,11 @@
-Firmware/whimsy-kbfirmware.json
-Firmware/whimsy-pin_schematic.png
-Firmware/whimsy.zip
+Case/asm_mx_asm_PCB.stp
+Cerakote Colors.png
 
-Case
+PCB/Keebio-Parts.pretty
+PCB/nice-nano-kicad-master
+PCB/CAD Files
+
 Renders
-Plate
 Misc
 
 *.psd
