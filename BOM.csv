@@ -1,7 +1,7 @@
 Needed from this repo,,,
 Item,Count,Note,Link
 PCB,1,,https://github.com/Aidan-OS/Whimsy/tree/master/PCB
-Plate,1,,https://github.com/Aidan-OS/Whimsy/tree/master/Plate	
+Plate,1,,"https://github.com/Aidan-OS/Whimsy/tree/master/Plate	"
 Case,1,,https://github.com/Aidan-OS/Whimsy/tree/master/Case
 ,,,
 Keebio Order,,,
@@ -26,3 +26,7 @@ Sparkfun Order,,,
 Item,Count,Note,Link
 JST Connector,1,Optional - Only needed with Nice!Nano,https://www.sparkfun.com/products/9749
 Lithium Ion Battery,1,Optional - Only needed with Nice!Nano,https://www.sparkfun.com/products/18286
+,,,
+OLED options (Available from many places),,,
+Option 1:,SSD1306 OLED 128x32,,
+Option 2:,SSD1306 OLED 128x64,,
