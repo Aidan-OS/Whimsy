@@ -7,9 +7,9 @@
 #define VENDOR_ID       0xFEED
 #define PRODUCT_ID      0x6060
 #define DEVICE_VER      0x0001
-#define MANUFACTURER    qmkbuilder
-#define PRODUCT         keyboard
-#define DESCRIPTION     Keyboard
+#define MANUFACTURER    Aidan
+#define PRODUCT         Whomsy
+#define DESCRIPTION     A Whomsical 40%
 
 /* key matrix size */
 #define MATRIX_ROWS 8
@@ -20,12 +20,14 @@
 #define ENCODERS_PAD_B { B7 }
 
 /* key matrix pins */
-#define MATRIX_ROW_PINS { F5, F6, B4, F0, F4, E6, B5, F1 }
-#define MATRIX_COL_PINS { B3, B1, F7, B6, B2, D7 }
+#define MATRIX_ROW_PINS { F5, F6, B2, B5, F4, D4, B4, B6 }
+#define MATRIX_COL_PINS { B3, E6, B1, D7, F7, C6 }
 #define UNUSED_PINS
 
 /* COL2ROW or ROW2COL */
 #define DIODE_DIRECTION COL2ROW
+
+#define OLED_DISPLAY_128X64 //Comment this out to change the screen size
 
 /* number of backlight levels */
 
