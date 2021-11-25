@@ -14,9 +14,9 @@ All that I have done is from revision 4 and beyond. I am currently making the Wh
 
 **rev3:** Prepared for group buy (Prkns went missing at this point)
 
-**rev4:** Fixed issues with OLED connections, added a reset button (AWAITING PCB ARRIVAL). Uploaded case and plate, both still need some work.
+**rev4:** Fixed issues with OLED connections, added a reset button (Tested and Functional). Uploaded case and plate, both still need some work.
 
-**rev5:** Added compatibility for Nice!Nano (UNTESTED)
+**rev5:** Added compatibility for Nice!Nano (UNTESTED), fixed stupid button position
 
 ---
 
