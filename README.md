@@ -4,7 +4,9 @@
 
 Hi, I'm Aidan and I have at least temporarily started working on the Whimsy after it seems like Prkns has abandoned it. As of writing this, Prkns has been inactive on discord for about 4 months with DSA 1930 not being shipped even though it should have been received.
 
-All that I have done is from revision 4 and beyond. I am currently making the Whimsy for myself, but should Prkns not return I will run a group buy on my own. There are currently rev 4 PCBs on their way from JLCPCB, and I will update things once I have made a test build with them. I also plan on making a fully 3D printable version of the case for those who might be interested.
+All that I have done is from revision 4 and beyond. I am currently making the Whimsy for myself, but should Prkns not return I will run a group buy on my own. I can confirm that the rev 4 PCB is working, however the rev 4 plate is not. Rev 5 plate will work for sure.
+
+The case files can be found in the corresponding file. The 3D print file is not currently up to date as I will need to mirror changes from the CNC version to it.
 
 ### Plans 🤔
 
