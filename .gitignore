@@ -9,5 +9,6 @@ Renders
 Misc
 
 *.psd
+*.STEP
 
 .DS_Store
